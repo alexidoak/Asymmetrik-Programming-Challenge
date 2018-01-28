@@ -3,7 +3,7 @@ Mobile device keyboard autocomplete algorithm implementation.
 I developed this code in Eclipse IDE for Java Developers, Version: Mars.2 Release (4.5.2)
 
 To run:
-1. Save download the repository.
+1. Download and save the repository.
 2. In the terminal cd into the bin directory.
 3. Run `java AutocompleteProvider`
  * To quit, enter `quit`.
